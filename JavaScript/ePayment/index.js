@@ -15,7 +15,7 @@
 
 // var name = "Paullaster"
 //let - define variable that whose value would and accessible with block where it was defined
-//cost --when define constast or variable whose values would change 
+//const --when define constant or variable whose values would change 
 //semi-colon shows end of javascript statement
 
 // var name1 = 'Paullaster';
